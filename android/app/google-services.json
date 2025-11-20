@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835535214409",
+    "project_id": "jaya-freight",
+    "storage_bucket": "jaya-freight.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835535214409:android:991256c607810ce41cec98",
+        "android_client_info": {
+          "package_name": "com.example.transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqGufQ6NFGSd2mw5mqp-qtGiW9QneU-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
